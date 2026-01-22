@@ -1,4 +1,3 @@
-Sure—here’s what your motor-test code is doing, step by step, in simple words.
 
 ---
 
