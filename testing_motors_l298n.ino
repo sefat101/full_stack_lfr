@@ -115,3 +115,4 @@ void loop() {
 
   stopMotors(800);
 }
+//you can change the motor speed and delays to test your motors adaptability with your setup 
