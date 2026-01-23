@@ -115,3 +115,5 @@ void loop() {
 
   stopMotors(800);
 }
+
+//you can change the ramp up speed and delays
